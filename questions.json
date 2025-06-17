@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": ["London", "Berlin", "Paris", "Madrid"],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "What is 15 + 27?",
+      "options": ["41", "42", "43", "44"],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "In which year did World War II end?",
+      "options": ["1944", "1945", "1946", "1947"],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "question": "Which is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "question": "What is the square root of 144?",
+      "options": ["11", "12", "13", "14"],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "id": 10,
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Platinum"],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "question": "Which country has the most natural lakes?",
+      "options": ["Russia", "Canada", "Finland", "Sweden"],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "id": 13,
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Ribosome", "Mitochondria", "Cytoplasm"],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "id": 14,
+      "question": "In Greek mythology, who is the king of the gods?",
+      "options": ["Apollo", "Zeus", "Poseidon", "Hades"],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": 15,
+      "question": "What is the fastest land animal?",
+      "options": ["Lion", "Cheetah", "Leopard", "Tiger"],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "id": 16,
+      "question": "Which element has the atomic number 1?",
+      "options": ["Helium", "Hydrogen", "Lithium", "Carbon"],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": 17,
+      "question": "What is the longest river in the world?",
+      "options": ["Amazon", "Nile", "Mississippi", "Yangtze"],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": 18,
+      "question": "How many sides does a hexagon have?",
+      "options": ["5", "6", "7", "8"],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "id": 19,
+      "question": "What is the currency of Japan?",
+      "options": ["Yuan", "Won", "Yen", "Rupee"],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "id": 20,
+      "question": "Which programming language is known as the 'language of the web'?",
+      "options": ["Python", "Java", "JavaScript", "C++"],
+      "correct": 2,
+      "difficulty": "medium"
+    }
+  ]
+}
